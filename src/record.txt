@@ -1,0 +1,6 @@
+650,stephanie,Time:58s
+170,xinru,Time:47s
+150,User,Time:7s
+100,john,Time:8s
+60,User,Time:11s
+20,vivian,Time:11s
